@@ -40,4 +40,4 @@ The project contains the following files and directories:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rpriya14
+   git clone https://github.com/Rpriya14/Frontend Website.git
